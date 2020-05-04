@@ -16,7 +16,7 @@ nickname: Xie Shujie
 
 ### this variable is MarkDown form.
 description: warm and kind
-avatar: /image/seagull.jpeg
+avatar: /image/seagull.jpg
 
 # main menu navigation
 ## links key words should not be changed.
@@ -33,7 +33,7 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: 
+  # ZhiHu: 
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -43,7 +43,7 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
+  # Instagram:
   Reddit:
   # YouTube:
   # QQ:

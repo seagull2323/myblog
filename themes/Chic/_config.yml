@@ -4,9 +4,9 @@ navname: seagull's Blog
 # navigatior items
 nav:
   Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /about
+  Categories: /-Categories-
+  Tags: /Tag
+  About: /About
 
 # favicon
 favicon: /favicon.ico

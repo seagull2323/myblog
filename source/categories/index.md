@@ -4,15 +4,19 @@ date: 2018-04-25 22:34:08
 type: "categories"
 ---
 # -Categories-
-> interaction
+  - [p5.js](https://www.runoob.com)
+  - [碎碎念](https://xieshujie.netlify.app/2020/05/04/%E4%BB%A3%E7%A0%81%E6%84%9F%E6%83%B3/)
+# -Categories-
+## interaction
 > 1. p5.js
-> + 作业 <https://xieshujie.netlify.app/2020/05/04/代码感想/> 
+> + 交互作业 <https://xieshujie.netlify.app/2020/05/04/代码感想/> 
 > + 案例
 > 2. arduino
-> + 作业 
 > + 案例
-> 产品
+## 产品
 > 1. 可持续设计
-> 其他
-> 1. 网页模板介绍
-> + 作者
+ + 案例
+## 其他
+> 1. 网站模板
+> 2. 文章分享
+> + 下一个革命性的人机交互方式

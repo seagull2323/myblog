@@ -4,6 +4,7 @@ navname: seagull's Blog
 # navigatior items
 nav:
   Posts: /archives
+  Categories: /Categories
   Tags: /Tags
   About: /About
 

@@ -1,6 +1,8 @@
 ---
-title: category
-date: 2020-05-04 15:20:00
+title: categories
+date: 2015-10-20 06:49:50
+type: "categories"
+comments: false
 ---
 # -Categories-
 > interaction

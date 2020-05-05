@@ -3,10 +3,6 @@ title: categories
 date: 2018-04-25 22:34:08
 type: "categories"
 ---
-# -Categories-
-  - [p5.js](https://p5js.org/zh-Hans/)
-  - [碎碎念](https://xieshujie.netlify.app/2020/05/04/%E4%BB%A3%E7%A0%81%E6%84%9F%E6%83%B3/)
-# -Categories-
 ## interaction
 > 1. p5.js
 > + 交互作业 <https://xieshujie.netlify.app/2020/05/04/代码感想/> 
@@ -15,7 +11,7 @@ type: "categories"
 > + 案例
 ## 产品
 > 1. 可持续设计
- + 案例
+> + 案例
 ## 其他
 > 1. 网站模板
 > 2. 文章分享

@@ -5,7 +5,7 @@ type: "categories"
 ---
 ## 交互
 > 1. p5.js
-> + 交互作业 <https://xieshujie.netlify.app/2020/05/04/代码感想/> 
+> + 交互作业 <https://xieshujie.netlify.app/categories/interaction-p5-js/> 
 > + 案例
 > 2. arduino
 > + 案例

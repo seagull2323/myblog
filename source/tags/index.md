@@ -6,4 +6,4 @@ type: "tags"
 tags:
   - [碎碎念](https://xieshujie.netlify.app/2020/05/05/%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%9D%A9%E5%91%BD%E6%80%A7%E7%9A%84%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E6%96%B9%E5%BC%8F/)
   - [代码](https://xieshujie.netlify.app/2020/05/04/%E4%BB%A3%E7%A0%81%E6%84%9F%E6%83%B3/)
-  - [旅行](https://xieshujie.netlify.app/2020/05/04/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%9B%BE/)
+  - [有点意思](https://xieshujie.netlify.app/2020/05/04/%E6%9C%89%E8%B6%A3%E7%9A%84%E5%9B%BE/)

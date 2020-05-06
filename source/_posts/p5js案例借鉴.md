@@ -1,5 +1,5 @@
 ---
-title: p5js案例借鉴点
+title: 案例借鉴点
 date: 2020-05-04 16:50:48
 categories:
 - 交互-p5.js-作业

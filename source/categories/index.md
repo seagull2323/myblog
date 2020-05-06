@@ -6,7 +6,7 @@ type: "categories"
 
 ## 交互
 > 1.p5.js
-- [交互作业](https://xieshujie.netlify.app/categories/interaction-p5-js/)
+- [作业](https://xieshujie.netlify.app/categories/interaction-p5-js/)
 - [案例借鉴](https://xieshujie.netlify.app/categories/interaction-p5-js/)
 ## 产品
 > 1.可持续设计

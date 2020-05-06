@@ -3,10 +3,8 @@ title: categories
 date: 2018-04-25 22:34:08
 type: "categories"
 ---
-## 交互
-> 1. p5.js
-> + 交互作业 <https://xieshujie.netlify.app/categories/interaction-p5-js/> 
-> + 案例
+
+- [交互](https://xieshujie.netlify.app/categories/interaction-p5-js/)
 > 2. arduino
 > + 案例
 ## 产品
